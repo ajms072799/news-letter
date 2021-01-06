@@ -76,3 +76,14 @@ body .news-letter-container-homepage .news-letter-container-second .news-letter-
     color: rgb(255, 162, 119);
     text-decoration: underline;
 }
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .news-letter-nav-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .news-letter-nav-list a{
+    text-decoration: none;
+    font-size: 2.5rem;
+}
