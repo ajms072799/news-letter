@@ -56,3 +56,8 @@ body .news-letter-container-homepage .news-letter-container-second .box-themed-7
     width: 75%;
     border: 1px solid black;
 }
+
+body .news-letter-container-homepage .news-letter-container-second .box-themed-25 {
+    width: 25%;
+    border: 1px solid black;
+}
