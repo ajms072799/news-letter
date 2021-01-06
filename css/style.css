@@ -47,6 +47,11 @@ body .news-letter-container-homepage .news-letter-container-first .box-themed-50
     border: 1px solid black;
 }
 
+body .news-letter-container-homepage .news-letter-container-first .news-letter-breaking img {
+    display: block;
+    margin: auto;
+}
+
 body .news-letter-container-homepage .news-letter-container-second .box-themed-75 {
     width: 75%;
     border: 1px solid black;
