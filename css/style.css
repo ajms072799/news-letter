@@ -71,3 +71,8 @@ body .news-letter-container-homepage .news-letter-container-second .news-letter-
     color: rgb(77, 73, 73);
     text-decoration: none;
 }
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-archieve-list a:hover{
+    color: rgb(255, 162, 119);
+    text-decoration: underline;
+}
