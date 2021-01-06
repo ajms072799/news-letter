@@ -13,7 +13,11 @@ body .news-letter-container-header .news-letter-header {
     text-align: center;
 }
 
-.flex-container {
+body .news-letter-container-homepage {
+    border: 1px solid black;
+}
+
+body .news-letter-container-homepage .flex-container {
     display: flex;
     width: 100%;
 }
