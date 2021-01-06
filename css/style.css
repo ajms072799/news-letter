@@ -21,3 +21,18 @@ body .news-letter-container-homepage .flex-container {
     display: flex;
     width: 100%;
 }
+
+body main .news-letter-container-first .box-themed-25 {
+    width: 25%;
+    border: 1px solid black;
+}
+
+body main .news-letter-container-first .box-themed-50 {
+    width: 50%;
+    border: 1px solid black;
+}
+
+body main .news-letter-container-second .box-themed-75 {
+    width: 75%;
+    border: 1px solid black;
+}
