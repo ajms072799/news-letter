@@ -12,3 +12,8 @@ body .news-letter-container-header .news-letter-header {
     font-size: 5rem;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    width: 100%;
+}
