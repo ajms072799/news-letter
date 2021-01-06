@@ -7,6 +7,10 @@ html {
     font-family: 'Times New Roman', Times, serif;
 }
 
+body {
+    font-size: 1.4rem;
+}
+
 body .news-letter-container-header .news-letter-header {
     font-family: 'Pacifico', 'cursive';
     font-size: 5rem;
