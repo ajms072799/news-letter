@@ -31,6 +31,16 @@ body .news-letter-container-homepage .news-letter-container-first .box-themed-25
     border: 1px solid black;
 }
 
+body .news-letter-container-homepage .news-letter-title {
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+
+body .news-letter-container-homepage .news-letter-container-first p {
+    padding: .5rem;
+}
+
 body .news-letter-container-homepage .news-letter-container-first .box-themed-50 {
     width: 50%;
     border: 1px solid black;
