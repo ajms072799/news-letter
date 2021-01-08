@@ -81,3 +81,8 @@ body .news-letter-container-homepage .news-letter-container-second .news-letter-
     height: 20%;
     width: 100%;
 }
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-height-width-themed h3{
+    padding: 0;
+    margin: 0;
+}
