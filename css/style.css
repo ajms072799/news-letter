@@ -76,3 +76,8 @@ body .news-letter-container-homepage .news-letter-container-second .news-letter-
     color: rgb(255, 162, 119);
     text-decoration: underline;
 }
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-height-width-themed{
+    height: 20%;
+    width: 100%;
+}
