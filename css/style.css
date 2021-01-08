@@ -88,6 +88,32 @@ body .news-letter-container-homepage .news-letter-container-second .news-letter-
     padding: 0;
     margin: 0;
     cursor: pointer;
+    color: rgb(73, 66, 66);
     font-size: 2.5rem;
     padding-left: 1.5rem;
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-height-width-themed h3:hover{
+    color: #000;
+    text-decoration: underline;
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-green-themed {
+    background-color: rgb(144, 255, 144);
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-crimson-themed {
+    background-color: rgba(248, 121, 146, 0.979);
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-light-blue-themed {
+    background-color: lightblue;
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-orange-themed {
+    background-color: rgb(253, 173, 98);
+}
+
+body .news-letter-container-homepage .news-letter-container-second .news-letter-nav .box-red-themed {
+    background-color: rgb(255, 132, 132);
 }
